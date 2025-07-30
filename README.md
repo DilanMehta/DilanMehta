@@ -8,10 +8,13 @@ I've launched solutions from scratch that have scaled to hundreds of thousands o
 
 **UX & Design:**  
 Figma · Rotato · Canva
+
 **Frontend:**  
 Flutter · FlutterFlow · React · React Native (Expo) · Swift · JavaScript · HTML · Tailwind CSS
+
 **Backend:**  
 Python · Flask · Node.js · Go · Rust · PostgreSQL · MySQL · MongoDB · Redis
+
 **Cloud & Services:**  
 Firebase · Supabase · GCP · AWS · Postman · Google Apps Script
 
