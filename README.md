@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dilan Mehta 👋
 
-<!--
-**DilanMehta/DilanMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building innovative tools that solve real problems. Lately, I’ve been working on side projects that streamline GTM — including internal tools, AI UGC, GTM dashboards, and infa layers.
 
-Here are some ideas to get you started:
+I've launched solutions from scratch that have scaled to hundreds of thousands of users and generated millions in ARR. I have a strong interest in robotics, sustainability, commerce enablement, healthcare, food & agriculture, supply chain, defense tech & projects that overall make the world a better place ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Experience
+
+**UX & Design:**  
+Figma · Rotato · Canva
+**Frontend:**  
+Flutter · FlutterFlow · React · React Native (Expo) · Swift · JavaScript · HTML · Tailwind CSS
+**Backend:**  
+Python · Flask · Node.js · Go · Rust · PostgreSQL · MySQL · MongoDB · Redis
+**Cloud & Services:**  
+Firebase · Supabase · GCP · AWS · Postman · Google Apps Script
+
+## 📬 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/dilanmehta)  
