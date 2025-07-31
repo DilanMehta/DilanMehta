@@ -20,4 +20,4 @@ Firebase · Supabase · GCP · AWS · Postman · Google Apps Script
 
 ## 📬 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/dilanmehta)  
+[LinkedIn](https://www.linkedin.com/in/dilanpmehta)  
